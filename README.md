@@ -1,1 +1,1 @@
-Projects in Data Science regarding various topics and fields. # Data Science
+Projects in Data Science regarding various fields and topics. # Data Science
